@@ -1,9 +1,9 @@
-import header from './header';
+import Header from './header';
 
 export default function Home() {
   return (
       <>
-    <header></header>
+    <Header/>
       <p className="">pomooooc</p>
   </>
           );
